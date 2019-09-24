@@ -10,13 +10,10 @@ private:
 public:
     Complex ()
     {
-        a = 1;
-        b = 1;
-        c = 1;
-        d = 1;
+        a = b = c = d = 1;
         cout << "Construct is done!";
     }
-    ~Complex()
+    ~Complex ()
     {
         cout << "Destructor is done!";
     }
