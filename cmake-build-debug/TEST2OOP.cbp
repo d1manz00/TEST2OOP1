@@ -82,6 +82,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/dzolo/CLionProjects/TEST2OOP/Complex.cpp">
+			<Option target="TEST2OOP"/>
+		</Unit>
+		<Unit filename="C:/Users/dzolo/CLionProjects/TEST2OOP/Complex.h">
+			<Option target="TEST2OOP"/>
+		</Unit>
 		<Unit filename="C:/Users/dzolo/CLionProjects/TEST2OOP/main.cpp">
 			<Option target="TEST2OOP"/>
 		</Unit>
