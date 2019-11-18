@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/dzolo/CLionProjects/TEST2OOP/Complex.cpp
-Complex.h
-C:/Users/dzolo/CLionProjects/TEST2OOP/Complex.h
-
 C:/Users/dzolo/CLionProjects/TEST2OOP/Complex.h
 iostream
 -
 cmath
 -
+
+C:/Users/dzolo/CLionProjects/TEST2OOP/main.cpp
+iostream
+-
+string
+-
+Complex.h
+C:/Users/dzolo/CLionProjects/TEST2OOP/Complex.h
 
